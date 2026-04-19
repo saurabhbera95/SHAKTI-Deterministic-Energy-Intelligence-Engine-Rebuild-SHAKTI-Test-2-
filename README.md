@@ -41,6 +41,7 @@ Fully traceable decisions
 Modular and executable pipeline
 
 Deliverables
+
 Working pipeline (main.py)
 Modular source components (src/)
 Jupyter Notebook (step-by-step execution)
