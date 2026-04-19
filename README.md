@@ -6,11 +6,11 @@ An end-to-end deterministic (rule-based) pipeline that ingests multi-source data
 
 What It Does
 
-Ingests sensor data and logs
-Cleans and parses inputs
-Applies deterministic rules to generate signals
-Routes actions based on signals
-Produces structured JSON output with full traceability
+-Ingests sensor data and logs
+-Cleans and parses inputs
+-Applies deterministic rules to generate signals
+-Routes actions based on signals
+-Produces structured JSON output with full traceability
 
 Pipeline Flow
 
@@ -35,17 +35,17 @@ python main.py Or open the Jupyter Notebook and run all cells.
 
 Key Features
 
-Deterministic logic (no ML)
-Multi-source ingestion
-Fully traceable decisions
-Modular and executable pipeline
+-Deterministic logic (no ML)
+-Multi-source ingestion
+-Fully traceable decisions
+-Modular and executable pipeline
 
 Deliverables
 
-Working pipeline (main.py)
-Modular source components (src/)
-Jupyter Notebook (step-by-step execution)
-REVIEW_PACKET.md (system validation & rules)
+-Working pipeline (main.py)
+-Modular source components (src/)
+-Jupyter Notebook (step-by-step execution)
+-REVIEW_PACKET.md (system validation & rules)
 
 Summary
 
